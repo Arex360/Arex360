@@ -9,8 +9,13 @@ Experienced game developer with 4 years of expertise in Unity, specializing in m
 | Technical Skills | Game Development | Soft Skills |
 |------------------|-------------------|-------------|
 | Unity Game Engine| Multiplayer Game Development | Problem-solving |
-| C# Programming   | Game Design | Team Collaboration |
-| Version Control (e.g., Git) | | |
+| Blockchain   | Game Design | Team Collaboration |
+| Full-Stack Development | Hyper/Hybrid Casual| |
+| Bug Solving | Hyper/Hybrid Casual| |
+| Quality Assurance | Hyper/Hybrid Casual| |
+| Cloud Computing | Hyper/Hybrid Casual| |
+
+
 ### 💼 Professional Experience
 
 #### Dark Aura Games
