@@ -15,6 +15,12 @@ Experienced game developer with 4 years of expertise in Unity, specializing in m
 
 ### 💼 Professional Experience
 
+#### Dark Aura Games
+**Founder**  
+*[May 2024] - Present*
+- Worked on Buckshot Roulette Multiplayer (replica)
+- Worked on multilayer fighting game
+- Lead
 #### Snack Gamer
 **Game Developer**  
 *[Jan 2023] - [May 2023]*
