@@ -9,11 +9,11 @@ Experienced game developer with 4 years of expertise in Unity, specializing in m
 | Technical Skills | Game Development | Soft Skills |
 |------------------|-------------------|-------------|
 | Unity Game Engine| Multiplayer Game Development | Problem-solving |
-| Blockchain   | Game Design | Team Collaboration |
+| Blockchain   | Single Player Game Development | Team Collaboration |
 | Full-Stack Development | Hyper/Hybrid Casual| |
-| Bug Solving | Hyper/Hybrid Casual| |
-| Quality Assurance | Hyper/Hybrid Casual| |
-| Cloud Computing | Hyper/Hybrid Casual| |
+| Bug Solving | Game Prototyping| |
+| Quality Assurance | Game Design| |
+| Cloud Computing | Game Art(basic)| |
 
 
 ### 💼 Professional Experience
