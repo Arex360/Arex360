@@ -1,9 +1,7 @@
 # Muhammad Owais
 ## Senior Game Developer
-
 ### 👨‍💻 About Me
 Experienced game developer with 4 years of expertise in Unity, specializing in multiplayer game development. Proven track record of creating engaging and innovative gaming experiences.
-
 ### 🛠️ Skills
 | Technical Skills | Game Development | Soft Skills |
 |------------------|-------------------|-------------|
@@ -13,13 +11,11 @@ Experienced game developer with 4 years of expertise in Unity, specializing in m
 | Bug Solving | Game Prototyping| |
 | Quality Assurance | Game Design| |
 | Cloud Computing | Game Art(basic)| |
-
 <table>
 <tr>
 <td>
 
 ### 💼 Professional Experience
-
 **Dark Aura Games**  
 *Founder*  
 May 2024 - Present
@@ -41,14 +37,18 @@ Sept 2022 - December 2022
 - Designed and implemented game features
 - Participated in code reviews and debugging
 - Worked on multiplayer game project
-
 </td>
 <td>
 
 ### 🎓 Education
+**MS Computer Science**  
+*Pakistan Institute of Engineering and Applied Sciences, 2022-2024*
 
-**[Degree] in [Field of Study]**  
-*[University Name], [Graduation Year]*
+**BS Computer Science**  
+*Muhammad Nawaz Sharif University of Agriculture, Multan, 2018-2022*
+
+**Intermediate in FSc**  
+*Stak College of Science and Commerce, 2016-2018*
 </td>
 </tr>
 </table>
