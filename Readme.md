@@ -14,10 +14,6 @@ Experienced game developer with 4 years of expertise in Unity, specializing in m
 | Quality Assurance | Game Design| |
 | Cloud Computing | Game Art(basic)| |
 
-<table>
-<tr>
-<td width="50%">
-
 ### 💼 Professional Experience
 
 **Dark Aura Games**  
@@ -42,9 +38,6 @@ Sept 2022 - December 2022
 - Participated in code reviews and debugging
 - Worked on multiplayer game project
 
-</td>
-<td width="50%">
-
 ### 🎓 Education
 
 **MS Computer Science**  
@@ -55,10 +48,6 @@ Muhammad Nawaz Sharif University of Agriculture, Multan, 2018-2022
 
 **Intermediate in FSc**  
 Stak College of Science and Commerce, 2016-2018
-
-</td>
-</tr>
-</table>
 
 ### 🎮 Projects
 [You can list 2-3 significant projects you've worked on, highlighting your role and the technologies used]
