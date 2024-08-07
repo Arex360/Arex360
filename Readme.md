@@ -49,14 +49,13 @@ Sept 2022 - December 2022
 
 **[Degree] in [Field of Study]**  
 *[University Name], [Graduation Year]*
-
-### 📫 How to reach me
-- Email: owais@darkauragames.com
-- LinkedIn: [Muhammad Owais](https://www.linkedin.com/in/muhammad-owais-6709112a2/)
-
 </td>
 </tr>
 </table>
 
 ### 🎮 Projects
 [You can list 2-3 significant projects you've worked on, highlighting your role and the technologies used]
+
+### 📫 How to reach me
+- Email: owais@darkauragames.com
+- LinkedIn: [Muhammad Owais](https://www.linkedin.com/in/muhammad-owais-6709112a2/)
