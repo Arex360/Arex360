@@ -50,7 +50,7 @@ Muhammad Nawaz Sharif University of Agriculture, Multan, 2018-2022
 Stak College of Science and Commerce, 2016-2018
 
 ### 🎮 Projects
-[You can list 2-3 significant projects you've worked on, highlighting your role and the technologies used]
+- [Corp Madness](https://play.google.com/store/apps/details?id=com.DarkAuraGames.CorpMadness)
 
 ### 📫 How to reach me
 - Email: owais@darkauragames.com
